@@ -113,3 +113,6 @@ cssgridgenerator-react
 └─ vite.config.js
 
 ```
+
+## License
+React is [MIT licensed](./LICENSE)
