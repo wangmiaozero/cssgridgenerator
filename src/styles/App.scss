@@ -1,0 +1,14 @@
+@use "@/styles/variables.scss";
+#app {
+    margin: 5vmin 5vmin 0;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  @media screen and (max-width: 700px) {
+    .container {
+      flex-direction: column;
+    }
+  }

@@ -1,0 +1,24 @@
+@use "@/styles/variables.scss";
+.cursive {
+  font-family: "Caveat", cursive;
+  font-size: 25px;
+  color: #ffd908;
+  font-weight: normal;
+  a,
+  a:visited,
+  a:active {
+    color: #fb7826;
+    text-decoration: underline;
+  }
+}
+
+strong {
+  color: #ffd908;
+}
+
+a,
+a:visited,
+a:active {
+  color: $teal;
+  text-decoration: none;
+}

@@ -1,0 +1,36 @@
+@use "@/styles/variables.scss";
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.language-switcher {
+  margin-right: 20px;
+  
+  select {
+    background: transparent;
+    color: #08ffbd;
+    padding: 4px 30px 5px;
+    border-radius: 1000px;
+    border: 1px solid #08ffbd;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.35s all;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-align: center;
+    text-align-last: center;
+    
+    &:hover {
+      background: #08ffbd;
+      color: black;
+    }
+    
+    option {
+      color: black;
+      background: white;
+    }
+  }
+}
