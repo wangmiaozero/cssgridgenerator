@@ -1,4 +1,5 @@
 import { useSelector, useDispatch } from 'react-redux';
+import { selectGridData } from '../store/selectors';
 import { useState, useEffect, useOptimistic } from 'react';
 import { startTransition } from 'react';
 import { useTranslation } from 'react-i18next';
@@ -34,17 +35,7 @@ function AppGrid() {
     childarea = [],
     rowTemplate,
     colTemplate,
-  } = useSelector((state) => ({
-    columngap: state.grid.columngap,
-    rowgap: state.grid.rowgap,
-    colArr: state.grid.colArr,
-    rowArr: state.grid.rowArr,
-    columns: state.grid.columns,
-    rows: state.grid.rows,
-    childarea: state.grid.childarea,
-    rowTemplate: state.grid.rowTemplate,
-    colTemplate: state.grid.colTemplate,
-  }));
+  } = useSelector(selectGridData);
 
   const [optimisticChildarea, addOptimisticChildarea] = useOptimistic(
     childarea,
