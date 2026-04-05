@@ -1,8 +1,22 @@
 # CSS Grid Generator
 
-![CSS Grid Generator](./public/og-cssgrid.jpg)
+<p align="center">
+  <a href="./README.zh-CN.md">简体中文</a> |
+  <strong>English</strong> |
+  <a href="./README_ko.md">한국어</a> |
+  <a href="./README_fr.md">Français</a> |
+  <a href="./README_de.md">Deutsch</a> |
+  <a href="./README_ja.md">日本語</a> |
+  <a href="./README_zh-TW.md">繁體中文</a> |
+  <a href="./README_ru.md">Русский</a> |
+  <a href="./README_es.md">Español</a> |
+  <a href="./README_pt.md">Português</a> |
+  <a href="./README_it.md">Italiano</a> |
+  <a href="./README_vi.md">Tiếng Việt</a> |
+  <a href="./README_ar.md">العربية</a>
+</p>
 
-English | [中文](./README.zh-CN.md)
+![CSS Grid Generator](./public/og-cssgrid.jpg)
 
 This project is a way for people to use CSS Grid features quickly to create dynamic layouts.
 

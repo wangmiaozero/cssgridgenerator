@@ -1,8 +1,22 @@
 # CSS 网格生成器
 
-![CSS 网格生成器](./public/og-cssgrid.jpg)
+<p align="center">
+  <strong>简体中文</strong> |
+  <a href="./README.md">English</a> |
+  <a href="./README_ko.md">한국어</a> |
+  <a href="./README_fr.md">Français</a> |
+  <a href="./README_de.md">Deutsch</a> |
+  <a href="./README_ja.md">日本語</a> |
+  <a href="./README_zh-TW.md">繁體中文</a> |
+  <a href="./README_ru.md">Русский</a> |
+  <a href="./README_es.md">Español</a> |
+  <a href="./README_pt.md">Português</a> |
+  <a href="./README_it.md">Italiano</a> |
+  <a href="./README_vi.md">Tiếng Việt</a> |
+  <a href="./README_ar.md">العربية</a>
+</p>
 
-中文 | [English](./README.md)
+![CSS 网格生成器](./public/og-cssgrid.jpg)
 
 这个项目是让人们快速使用 CSS Grid 功能来创建动态布局的一种方式。
 
@@ -15,7 +29,7 @@
 
 当你对这个有所了解后，我建议你去看看以下资源： [Github](https://github.com/wangmiaozero), [Seedling-ui](https://wangmiaozero.github.io/vue3-seedling-ui-website/#/), 和 [ Wang Seddling ](https://www.wangmiaozero.cn) 深入探索。还有一个 [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) 在 CSS-Tricks 网站上，有一个有趣的小游戏叫做 [Grid Garden](https://cssgridgarden.com/) 帮助你学习更多！
 
-如何这个项目帮助了你，请给一个Star 谢谢!
+如果这个项目帮助了你，请给一个 Star，谢谢！
 
 ### 环境要求
 
@@ -120,17 +134,17 @@ cssgridgenerator-react
 
 ```
 
-## License
+## 许可证
 
-This project is licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
+本项目采用 **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** 授权。
 
-### Summary:
-- **You are free to**:
-  - Share — copy and redistribute the material in any medium or format.
-  - Adapt — remix, transform, and build upon the material.
+### 摘要：
+- **你可以**：
+  - 共享 — 以任何媒介或格式复制、再分发本资料。
+  - 演绎 — 重混、转换或基于本资料创作。
 
-- **Under the following terms**:
-  - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  - **NonCommercial** — You may not use the material for commercial purposes.
+- **惟须遵守**：
+  - **署名** — 适当署名、提供许可证链接，并说明是否曾修改；方式须合理，且不得暗示许可人认可你或你的使用方式。
+  - **非商业性** — 不得将本资料用于商业目的。
 
-For more information, refer to the [LICENSE](LICENSE) file in this repository.
+更多信息请参阅本仓库中的 [LICENSE](LICENSE) 文件。
